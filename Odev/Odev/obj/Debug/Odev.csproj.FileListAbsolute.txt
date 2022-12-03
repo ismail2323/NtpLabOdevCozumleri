@@ -1,0 +1,7 @@
+C:\Users\23ism\OneDrive\Belgeler\Projeler\Odev\Odev\bin\Debug\Odev.exe.config
+C:\Users\23ism\OneDrive\Belgeler\Projeler\Odev\Odev\bin\Debug\Odev.exe
+C:\Users\23ism\OneDrive\Belgeler\Projeler\Odev\Odev\bin\Debug\Odev.pdb
+C:\Users\23ism\OneDrive\Belgeler\Projeler\Odev\Odev\obj\Debug\Odev.csprojAssemblyReference.cache
+C:\Users\23ism\OneDrive\Belgeler\Projeler\Odev\Odev\obj\Debug\Odev.csproj.CoreCompileInputs.cache
+C:\Users\23ism\OneDrive\Belgeler\Projeler\Odev\Odev\obj\Debug\Odev.exe
+C:\Users\23ism\OneDrive\Belgeler\Projeler\Odev\Odev\obj\Debug\Odev.pdb
